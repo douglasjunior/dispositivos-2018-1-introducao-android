@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Meu Primeiro App</string>
+    <string name="edit_message">Deigite sua mensagem</string>
+    <string name="button_enviar">Enviar</string>
+</resources>
